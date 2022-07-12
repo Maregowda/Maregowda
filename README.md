@@ -2,6 +2,8 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently working as a project engineer in Wipro
 - I am very good in Data Structures and algorithm, and have a very good skills in JAVA, Python,SQL
+- I have solved 150+ problems across Leetcode, Hackerrank, etc..
+- I am Passionate about programming Fresher enthusiasist and love to have work experience
 
 <!---
 Maregowda/Maregowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
