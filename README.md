@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I have been learning coding from 2 years, I completed 500+ problems across the Leetcode Hackerrank, codecheff, I have very good Knowledge in java FullStack, And I have good K.nowledge in Java, Python, C, C++(Basics) Programming Languages, I am Fresher, Enthusiastic, always motive to learn, and loved to have work Experience
+I have been learning coding from 2 years, I completed 500+ problems across the Leetcode Hackerrank, codecheff, I have very good Knowledge in java FullStack, And I have good Knowledge in Java, Python, C, C++(Basics) Programming Languages, I am Fresher, Enthusiastic, always motive to learn, and loved to have work Experience
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [maregowdac6979@gmail.com](mailto:maregowdac6979@gmail.com)
